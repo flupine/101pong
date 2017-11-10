@@ -3,10 +3,15 @@
 # PONG
 
 **binary name** : 101pong
+
 **repository name** : 101pong_$ACADEMICYEAR
+
 **repository rights** : ramassage-tek
+
 **language** : C, C++, perl 5, python 3 (≥ 3. 5 ), ruby 2 (≥ 2. 2 ), php 5.6, bash 4
+
 **group size** : 1 to 2
+
 **compilation** : via Makefile, including re, clean and fclean rules
 
 - Your repository must contain the totality of your source files, but no useless files (binary, temp files,
