@@ -22,8 +22,7 @@ How it work :
 
 **n** time shift (greater than or equal to zero, integer)
 
-<script type="text/javascript" src="https://asciinema.org/a/Cssyx9egxWp2iPAVgAyBVz450.js" id="asciicast-Cssyx9egxWp2iPAVgAyBVz450" async></script>
-
+[![asciicast](https://asciinema.org/a/Cssyx9egxWp2iPAVgAyBVz450.png)](https://asciinema.org/a/Cssyx9egxWp2iPAVgAyBVz450)
 You can find the code of this project here : [GitHub](https://github.com/flupine/101pong)
 
 
